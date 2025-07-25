@@ -137,7 +137,7 @@ This project bridged theory and real-world application, preparing us for similar
 
 This project was built as part of the **WorldQuant University Applied Data Science Lab**.  
 For more information: [https://www.wqu.edu](https://www.wqu.edu)  
-GitHub Repo: [https://github.com/ashraf635sakr/air-quality-in-nairobi]([https://github.com/ashraf635sakr/air-quality-in-nairobi](https://github.com/Houssam-123-ship-it/Forecasting-Air-Quality-In-Africa)
+GitHub Repo:(https://github.com/Houssam-123-ship-it/Forecasting-Air-Quality-In-Africa)
 
 ---
 
